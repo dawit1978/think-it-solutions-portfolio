@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/think-it-solutions-portfolio/static/css/main.766e2d38.css",
+    "main.js": "/think-it-solutions-portfolio/static/js/main.50385637.js",
+    "static/media/banner2.png": "/think-it-solutions-portfolio/static/media/banner2.b3924d6a4b8b19ef9de9.png",
+    "static/media/wp3.jpg": "/think-it-solutions-portfolio/static/media/wp3.778f8c8db2bd0893aa9e.jpg",
+    "static/media/gatcot.jpg": "/think-it-solutions-portfolio/static/media/gatcot.c1cdb2d72d2a2c16144e.jpg",
+    "static/media/p1.webp": "/think-it-solutions-portfolio/static/media/p1.52f0f3a89c11044c2037.webp",
+    "static/media/p5.webp": "/think-it-solutions-portfolio/static/media/p5.40f22911cc8104bfdf42.webp",
+    "static/media/selamawit.jpg": "/think-it-solutions-portfolio/static/media/selamawit.2e5021d8b3b4de4eaa5c.jpg",
+    "static/media/joseph.jpg": "/think-it-solutions-portfolio/static/media/joseph.3d41c4c05e9d3c6e5053.jpg",
+    "static/media/services.svg": "/think-it-solutions-portfolio/static/media/services.0d43785bd1f41e4d0371.svg",
+    "static/media/portfolio.svg": "/think-it-solutions-portfolio/static/media/portfolio.bff8b39169bade93c32b.svg",
+    "static/media/testimonials.svg": "/think-it-solutions-portfolio/static/media/testimonials.7b59b974ba9e396f2d8e.svg",
+    "static/media/p3.webp": "/think-it-solutions-portfolio/static/media/p3.05179f007af7cd2ad2a6.webp",
+    "static/media/contact.svg": "/think-it-solutions-portfolio/static/media/contact.acdd342ba1db0f98c7cd.svg",
+    "static/media/p4.webp": "/think-it-solutions-portfolio/static/media/p4.373ffd063f14c91c84c5.webp",
+    "static/media/p6.webp": "/think-it-solutions-portfolio/static/media/p6.26fcf4320bfa0eacc03a.webp",
+    "static/media/p2.webp": "/think-it-solutions-portfolio/static/media/p2.987c883e6e66df8a1228.webp",
+    "static/media/about.svg": "/think-it-solutions-portfolio/static/media/about.192e39ff229e6eb06083.svg",
+    "index.html": "/think-it-solutions-portfolio/index.html",
+    "main.766e2d38.css.map": "/think-it-solutions-portfolio/static/css/main.766e2d38.css.map",
+    "main.50385637.js.map": "/think-it-solutions-portfolio/static/js/main.50385637.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.766e2d38.css",
+    "static/js/main.50385637.js"
+  ]
+}
